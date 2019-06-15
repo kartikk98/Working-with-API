@@ -1,0 +1,32 @@
+html{
+  background-color: #e1e4ea
+}
+
+.card-width{
+  width : 18rem;
+}
+
+p{
+  text-decoration : bolder;
+}
+
+section article{
+  width: 30%;
+  float:left;
+  margin: 10px;
+ 
+}
+
+.card{
+  
+ margin: 0 auto;
+}
+
+.card:hover{
+  box-shadow: 5px 10px 8px #888888;
+}
+
+img{
+  border-radius: 50%;
+}
+      
