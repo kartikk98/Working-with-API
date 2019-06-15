@@ -1,5 +1,3 @@
-var section = document.querySelector('section');
-
 var requestURL = "http://demo4469839.mockable.io/influencers"
 var request = new XMLHttpRequest();
 request.open('GET', requestURL);
